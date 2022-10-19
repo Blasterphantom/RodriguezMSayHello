@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/bin/Debug/net6.0/RodriguezMSayHello
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/bin/Debug/net6.0/RodriguezMSayHello.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/bin/Debug/net6.0/RodriguezMSayHello.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/bin/Debug/net6.0/RodriguezMSayHello.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/bin/Debug/net6.0/RodriguezMSayHello.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/refint/RodriguezMSayHello.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/RodriguezMSayHello.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMSayHello/obj/Debug/net6.0/ref/RodriguezMSayHello.dll
